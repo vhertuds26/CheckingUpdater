@@ -50,7 +50,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(158, 193);
             this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.button1.Name = "button1";
+            this.button1.Name = "Check Update";
             this.button1.Size = new System.Drawing.Size(225, 85);
             this.button1.TabIndex = 2;
             this.button1.Text = "button1";
