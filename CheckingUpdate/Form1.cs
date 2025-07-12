@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Diagnostics;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,8 +22,8 @@ namespace CheckingUpdate
         private async Task checkUpdate ()
         {
             string currentVersion = label1.Text;//version no.
-            string versionUrl = "https://example.com/version.txt";
-            string downloadUrl = "https://example.com/download";
+            string versionUrl = "https://raw.githubusercontent.com/vhertuds26/CheckingUpdate/refs/heads/master/version.txt";
+            string downloadUrl = "https://github.com/vhertuds26/CheckingUpdate/releases/tag/v1.0.1";
 
             try
             {
