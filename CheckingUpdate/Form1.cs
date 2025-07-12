@@ -23,7 +23,7 @@ namespace CheckingUpdate
         {
             string currentVersion = label1.Text;//version no.
             string versionUrl = "https://raw.githubusercontent.com/vhertuds26/CheckingUpdate/refs/heads/master/version.txt";
-            string downloadUrl = "https://github.com/vhertuds26/CheckingUpdate/releases/tag/v1.0.1";
+            string downloadUrl = "https://github.com/user-attachments/files/21195892/CheckingUpdateInstaller.zip";
 
             try
             {

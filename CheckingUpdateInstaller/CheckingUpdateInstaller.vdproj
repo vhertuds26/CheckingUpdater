@@ -16,12 +16,12 @@
         "Entry"
         {
         "MsmKey" = "8:_04C0FEA22FF52B450A57A50CF9367AF1"
-        "OwnerKey" = "8:_88BDA75EAE064ADF820C3B848B927005"
+        "OwnerKey" = "8:_7169753922BF4B9D9421A7EAD010D98A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_88BDA75EAE064ADF820C3B848B927005"
+        "MsmKey" = "8:_7169753922BF4B9D9421A7EAD010D98A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -34,7 +34,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_88BDA75EAE064ADF820C3B848B927005"
+        "OwnerKey" = "8:_7169753922BF4B9D9421A7EAD010D98A"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -55,6 +55,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -71,6 +79,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -707,9 +723,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_88BDA75EAE064ADF820C3B848B927005"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_7169753922BF4B9D9421A7EAD010D98A"
             {
-            "SourcePath" = "8:..\\CheckingUpdate\\obj\\Release\\CheckingUpdate.exe"
+            "SourcePath" = "8:..\\CheckingUpdate\\obj\\Debug\\CheckingUpdate.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_8878881D88644EC68A12949962AA4B39"
