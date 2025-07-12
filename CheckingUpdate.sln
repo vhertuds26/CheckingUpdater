@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckingUpdate", "CheckingUpdate\CheckingUpdate.csproj", "{2C2EC1A4-097D-414F-8E8A-F4225A0886EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2EC1A4-097D-414F-8E8A-F4225A0886EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2EC1A4-097D-414F-8E8A-F4225A0886EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2EC1A4-097D-414F-8E8A-F4225A0886EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2EC1A4-097D-414F-8E8A-F4225A0886EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FBD80F9-24EB-4003-8019-C1DB9E36F26E}
+	EndGlobalSection
+EndGlobal
